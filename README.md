@@ -1,1 +1,1 @@
-# LDTS_TERESA_FERREIRA
+Cada branch corresponde a uma ficha diferente.
